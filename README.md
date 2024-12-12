@@ -24,16 +24,6 @@ Hi there! I'm Amirreza, a passionate **Data Scientist** and **Software Developer
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some of my notable projects:
-
-- [Coffee Sales Project in Excel](https://github.com/amirhoseinpirsarandib/excel-project-coffee-sales-main): A detailed sales analysis leveraging Excel tools.
-- [Data Analyst Job Market Analysis in SQL](https://github.com/amirhoseinpirsarandib/sql_project_data_jobs): Insights into the data analyst job market using SQL.
-- [Data Analyst Job Market Analysis in Python](https://github.com/pirsarandib/python_project_data_jobs/tree/main): Python-based analysis of job market trends.
-
----
-
 ## ⚙️ Tech Stack
 
 Here’s a glimpse of my go-to technologies and tools:
